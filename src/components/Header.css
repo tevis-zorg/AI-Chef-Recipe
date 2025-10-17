@@ -1,0 +1,19 @@
+.header-container {
+  display: flex;
+  padding: 0.15em;
+  padding-bottom: 0.075em;
+  justify-content: center;
+  gap: 0.45em;
+  border-radius: 15px;
+  color:#181616;
+  background-color: #f6f1ec;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.10), 0px 1px 2px 0px rgba(0, 0, 0, 0.06);
+}
+
+.header > h1 {
+  color: #181616;
+}
+
+article > img {
+  width: 0.5em;
+}
