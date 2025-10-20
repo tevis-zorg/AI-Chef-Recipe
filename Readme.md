@@ -6,4 +6,5 @@ A Simple AI chatbot assitant that make a recipe for ingredients you have
 by leveraging the ingredient given by the user, it shows the dishes you would like to make
 and steps how to made it.
 
-!(public/)
+here's how the demo of generated recipe based on ingredients given by user
+![](https://github.com/tevis-zorg/AI-Chef-Recipe/blob/AI-Recipe-Maker/public/AI-Chef-Generated-Recipe.png)
